@@ -1,8 +1,8 @@
 name: Build Resource Pack
 on:
   push:
-    tags:
-      - 'v*'
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: zip -r pack.zip assets/ Pack.mcmeta
+      - run: cd pack && zip -r ../pack.zip assets/ Pack.mcmeta
       - uses: softprops/action-gh-release@v2
         with:
           files: pack.zip
