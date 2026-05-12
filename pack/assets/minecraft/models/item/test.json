@@ -3,6 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/test1",
+		"0_emissive": "item/test1_emissive",
 		"1": "item/test2",
 		"particle": "item/test1"
 	},
@@ -13,7 +14,7 @@
 			"to": [14, 4, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [12, 2, 12]},
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#0", "emissive": true}
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		},
 		{
