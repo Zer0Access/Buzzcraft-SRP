@@ -11,9 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: cd pack && zip -r ../pack.zip assets/ Pack.mcmeta
-      - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add pack.zip
-          git commit -m "Auto-build pack.zip [skip ci]" || echo "No changes"
-          git push
+      - uses: ncipollo/release-action@v1
+        with:
+          tag: latest
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
+          artifacts: pack.zip
+          artifactContentType: application/zip
+          body: Auto-built resource pack
+          omitBodyDuringUpdate: true
