@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/portal",
-		"1": "item/log"
+		"0": "item/test1",
+		"1": "item/test2"
 	},
 	"elements": [
 		{
