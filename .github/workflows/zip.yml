@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: python -c "import zipfile, os; os.chdir('pack'); zf = zipfile.ZipFile('../pack.zip', 'w', zipfile.ZIP_DEFLATED); [zf.write(r, r) for r in ['Pack.mcmeta']]; [zf.write(os.path.join(dp, f), os.path.join(dp, f)) for dp, dn, fn in os.walk('assets') for f in fn]; zf.close()"
+      - run: python -c "import zipfile, os; os.chdir('pack'); zf = zipfile.ZipFile('../pack.zip', 'w', zipfile.ZIP_DEFLATED); [zf.write(r, r) for r in ['pack.mcmeta']]; [zf.write(os.path.join(dp, f), os.path.join(dp, f)) for dp, dn, fn in os.walk('assets') for f in fn]; zf.close()"
       - uses: ncipollo/release-action@v1
         with:
           tag: latest
