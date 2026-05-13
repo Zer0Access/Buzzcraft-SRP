@@ -3,7 +3,7 @@
     "wings": [
         {
         "texture": "minecraft:pride_elytra",
-        "use_player_test" : false
+        "use_player_texture" : false
       }
     ]
   }
