@@ -2,7 +2,7 @@
   "layers": {
     "wings": [
         {
-        "texture": "minecraft:items/pride_elytra",
+        "texture": "minecraft:pride_elytra",
         "use_player_test" : false
       }
     ]
