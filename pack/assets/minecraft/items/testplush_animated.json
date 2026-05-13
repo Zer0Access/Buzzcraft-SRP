@@ -1,8 +1,7 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "property": "time",
-    "scale": 1.0,
+    "type": "select",
+    "property": "main_hand_time",
     "cases": [
       { "model": { "type": "model", "model": "item/testplush_frame1" }, "threshold": 0.0 },
       { "model": { "type": "model", "model": "item/testplush_frame2" }, "threshold": 0.25 },
