@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+        {
+        "texture": "minecraft:items/pride_elytra",
+        "use_player_test" : false
+      }
+    ]
+  }
+}
