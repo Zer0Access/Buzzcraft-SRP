@@ -2,7 +2,7 @@
   "layers": {
     "wings": [
         {
-        "texture": "minecraft:prideelytra",
+        "texture": "minecraft:zeroelytra",
         "use_player_texture" : false
       }
     ]
