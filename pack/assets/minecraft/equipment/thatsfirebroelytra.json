@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+        {
+        "texture": "minecraft:thatsfirebroelytra",
+        "use_player_texture" : false
+      }
+    ]
+  }
+}
