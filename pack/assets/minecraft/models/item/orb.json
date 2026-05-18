@@ -24,10 +24,40 @@
 			}
 		},
 		{
-			"name": "orb_outer",
+			"name": "orb_outer1",
+			"from": [2.75, 2.75, 2.75],
+			"to": [13.25, 13.25, 13.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"light_emission": 15,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "orb_outer2",
 			"from": [2, 2, 2],
 			"to": [14, 14, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7, 7]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"light_emission": 15,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "orb_outer3",
+			"from": [1, 1, 1],
+			"to": [15, 15, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"light_emission": 15,
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
