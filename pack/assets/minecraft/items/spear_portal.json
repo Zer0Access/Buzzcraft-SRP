@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "model",
-        "model": "minecraft:item/netherite_spear/netherite_spear"
+        "model": "minecraft:item/netherite_spear"
       },
       {
         "type": "special",
@@ -12,7 +12,7 @@
           "type": "end_cube",
           "effect": "portal"
         },
-        "base": "minecraft:item/netherite_spear/netherite_spear",
+        "base": "minecraft:item/netherite_spear",
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
@@ -26,7 +26,7 @@
           "type": "end_cube",
           "effect": "portal"
         },
-        "base": "minecraft:item/netherite_spear/netherite_spear",
+        "base": "minecraft:item/netherite_spear",
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
@@ -40,7 +40,7 @@
           "type": "end_cube",
           "effect": "portal"
         },
-        "base": "minecraft:item/netherite_spear/netherite_spear",
+        "base": "minecraft:item/netherite_spear",
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
@@ -54,7 +54,7 @@
           "type": "end_cube",
           "effect": "portal"
         },
-        "base": "minecraft:item/netherite_spear/netherite_spear",
+        "base": "minecraft:item/netherite_spear",
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
@@ -68,7 +68,7 @@
           "type": "end_cube",
           "effect": "portal"
         },
-        "base": "minecraft:item/netherite_spear/netherite_spear",
+        "base": "minecraft:item/netherite_spear",
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
@@ -82,7 +82,7 @@
           "type": "end_cube",
           "effect": "portal"
         },
-        "base": "minecraft:item/netherite_spear/netherite_spear",
+        "base": "minecraft:item/netherite_spear",
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
