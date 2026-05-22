@@ -3,6 +3,10 @@
     "type": "composite",
     "models": [
       {
+        "type": "model",
+        "model": "minecraft:item/netherite_spear"
+      },
+      {
         "type": "special",
         "model": {
           "type": "end_cube",
@@ -84,20 +88,6 @@
           "right_rotation": [0, 0, 0, 1],
           "scale": [0, -1.35, -0.2],
           "translation": [0.525, 1.975, 0.5875]
-        }
-      },
-      {
-        "type": "special",
-        "model": {
-          "type": "end_cube",
-          "effect": "portal"
-        },
-        "base": "minecraft:item/netherite_spear",
-        "transformation": {
-          "left_rotation": [0, 0, 0, 1],
-          "right_rotation": [0, 0, 0, 1],
-          "scale": [0, -1.35, -0.32],
-          "translation": [0.525, 1.9, 0.65]
         }
       }
     ]
