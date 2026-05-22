@@ -12,8 +12,8 @@
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
-          "scale": [0.125, 0.9375, 0.125],
-          "translation": [0.5, 0.46875, 0.5]
+          "scale": [0.3, -0.3, -0.3],
+          "translation": [0.5, 0.5, 0.5]
         }
       },
       {
@@ -26,8 +26,8 @@
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
-          "scale": [0.14375, 0.51875, 0.14375],
-          "translation": [0.5, 0.3125, 0.5]
+          "scale": [0.15, -0.55, -0.15],
+          "translation": [0.45, 0.5, 0.575]
         }
       },
       {
@@ -40,8 +40,8 @@
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
-          "scale": [0.14375, 0.51875, 0.14375],
-          "translation": [0.5, 0.3125, 0.5]
+          "scale": [0.25, -0.25, -0.25],
+          "translation": [0.4, 0.1, 0.625]
         }
       },
       {
@@ -54,8 +54,8 @@
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
-          "scale": [0.1875, 0.1875, 0.1875],
-          "translation": [0.5, -0.09375, 0.5]
+          "scale": [0.25, -0.25, -0.25],
+          "translation": [0.4, 0.7, 0.625]
         }
       },
       {
@@ -68,8 +68,50 @@
         "transformation": {
           "left_rotation": [0, 0, 0, 1],
           "right_rotation": [0, 0, 0, 1],
-          "scale": [0.1875, 0.1875, 0.1875],
-          "translation": [0.5, 1, 0.5]
+          "scale": [0.15, -0.15, -0.85],
+          "translation": [0.45, 0.65, 0.925]
+        }
+      },
+      {
+        "type": "special",
+        "model": {
+          "type": "end_cube",
+          "effect": "portal"
+        },
+        "base": "minecraft:item/netherite_axe",
+        "transformation": {
+          "left_rotation": [0, 0, 0, 1],
+          "right_rotation": [0, 0, 0, 1],
+          "scale": [0, -1.35, -0.08],
+          "translation": [0.525, 2.05, 0.525]
+        }
+      },
+      {
+        "type": "special",
+        "model": {
+          "type": "end_cube",
+          "effect": "portal"
+        },
+        "base": "minecraft:item/netherite_axe",
+        "transformation": {
+          "left_rotation": [0, 0, 0, 1],
+          "right_rotation": [0, 0, 0, 1],
+          "scale": [0, -1.35, -0.2],
+          "translation": [0.525, 1.975, 0.5875]
+        }
+      },
+      {
+        "type": "special",
+        "model": {
+          "type": "end_cube",
+          "effect": "portal"
+        },
+        "base": "minecraft:item/netherite_axe",
+        "transformation": {
+          "left_rotation": [0, 0, 0, 1],
+          "right_rotation": [0, 0, 0, 1],
+          "scale": [0, -1.35, -0.32],
+          "translation": [0.525, 1.9, 0.65]
         }
       }
     ]
