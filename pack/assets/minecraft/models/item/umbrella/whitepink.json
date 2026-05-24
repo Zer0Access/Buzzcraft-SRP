@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [68, 64],
 	"textures": {
-		"0": "item/umbrella/redandwhite_umbrella",
-		"particle": "item/umbrella/redandwhite_umbrella"
+		"0": "item/umbrella/whitepink",
+		"particle": "item/umbrella/whitepink"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/umbrella/redandwhite_umbrella"
+    "model": "minecraft:item/umbrella/whitepurple"
   },
   "oversized_in_gui": true
 }
