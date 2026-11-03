@@ -1,0 +1,406 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "allugiaplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/allugiaplush"
+        }
+      },
+      {
+        "when": "buffdaddyonionplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/buffdaddyonionplush"
+        }
+      },
+      {
+        "when": "buzzcraftplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/buzzcraftplush"
+        }
+      },
+      {
+        "when": "buzzcraftplushdead",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/buzzcraftplushdead"
+        }
+      },
+      {
+        "when": "buzzcraftplushfly",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/buzzcraftplushfly"
+        }
+      },
+      {
+        "when": "catwoppsplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/catwoppsplush"
+        }
+      },
+      {
+        "when": "diamond_permit",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_permit"
+        }
+      },
+      {
+        "when": "flower_crown",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/flower_crown"
+        }
+      },
+      {
+        "when": "gold_permit",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gold_permit"
+        }
+      },
+      {
+        "when": "gregg",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/gregg"
+        }
+      },
+      {
+        "when": "heay_duck1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/heay_duck1plush"
+        }
+      },
+      {
+        "when": "iron_permit",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/iron_permit"
+        }
+      },
+      {
+        "when": "mavixvalclaeplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mavixvalclaeplush"
+        }
+      },
+      {
+        "when": "mavixvalclaeplushattack",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mavixvalclaeplushattack"
+        }
+      },
+      {
+        "when": "mrhammy_jrplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mrhammy_jrplush"
+        }
+      },
+      {
+        "when": "orb",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/orb"
+        }
+      },
+      {
+        "when": "oxygenated_dirtplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/oxygenated_dirtplush"
+        }
+      },
+      {
+        "when": "pigmop_necklace",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pigmop_necklace"
+        }
+      },
+      {
+        "when": "pigmopplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pigmopplush"
+        }
+      },
+      {
+        "when": "poisonisplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/poisonisplush"
+        }
+      },
+      {
+        "when": "portal_tray",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portal_tray"
+        }
+      },
+      {
+        "when": "sculk_umbrella",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sculk_umbrella"
+        }
+      },
+      {
+        "when": "sheelarinaplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sheelarinaplush"
+        }
+      },
+      {
+        "when": "t4bbicatplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/t4bbicatplush"
+        }
+      },
+      {
+        "when": "testplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/testplush"
+        }
+      },
+      {
+        "when": "testslimplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/testslimplush"
+        }
+      },
+      {
+        "when": "thecatkangplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/thecatkangplush"
+        }
+      },
+      {
+        "when": "tophat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/tophat"
+        }
+      },
+      {
+        "when": "twinplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/twinplush"
+        }
+      },
+      {
+        "when": "umbrella_black",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/black"
+        }
+      },
+      {
+        "when": "umbrella_blackwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/blackwhite"
+        }
+      },
+      {
+        "when": "umbrella_bluewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/bluewhite"
+        }
+      },
+      {
+        "when": "umbrella_gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/gold"
+        }
+      },
+      {
+        "when": "umbrella_greenwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/greenwhite"
+        }
+      },
+      {
+        "when": "umbrella_lbluewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/lbluewhite"
+        }
+      },
+      {
+        "when": "umbrella_orangewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/orangewhite"
+        }
+      },
+      {
+        "when": "umbrella_pinkwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/pinkwhite"
+        }
+      },
+      {
+        "when": "umbrella_purplewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/purplewhite"
+        }
+      },
+      {
+        "when": "umbrella_rainbow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/rainbow"
+        }
+      },
+      {
+        "when": "umbrella_redwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/redwhite"
+        }
+      },
+      {
+        "when": "umbrella_white",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/white"
+        }
+      },
+      {
+        "when": "umbrella_whiteblack",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteblack"
+        }
+      },
+      {
+        "when": "umbrella_whiteblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteblue"
+        }
+      },
+      {
+        "when": "umbrella_whitegreen",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitegreen"
+        }
+      },
+      {
+        "when": "umbrella_whitelblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitelblue"
+        }
+      },
+      {
+        "when": "umbrella_whiteorange",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteorange"
+        }
+      },
+      {
+        "when": "umbrella_whitepink",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitepink"
+        }
+      },
+      {
+        "when": "umbrella_whitepurple",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitepurple"
+        }
+      },
+      {
+        "when": "umbrella_whitered",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitered"
+        }
+      },
+      {
+        "when": "umbrella_whiteyellow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteyellow"
+        }
+      },
+      {
+        "when": "umbrella_yellowwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/yellowwhite"
+        }
+      },
+      {
+        "when": "unevenzephyrplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/unevenzephyrplush"
+        }
+      },
+      {
+        "when": "vrtsouptinplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/vrtsouptinplush"
+        }
+      },
+      {
+        "when": "zeroplush",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/zeroplush"
+        }
+      },
+      {
+        "when": "zeroplushattack",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/zeroplushattack"
+        }
+      },
+      {
+        "when": "zeroplushdead",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/zeroplushdead"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/echo_shard"
+    }
+  },
+  "oversized_in_gui": true
+}
