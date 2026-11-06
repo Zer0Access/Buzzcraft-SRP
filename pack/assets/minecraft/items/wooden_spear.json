@@ -1,0 +1,168 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "umbrella_black",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/black"
+        }
+      },
+      {
+        "when": "umbrella_blackwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/blackwhite"
+        }
+      },
+      {
+        "when": "umbrella_bluewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/bluewhite"
+        }
+      },
+      {
+        "when": "umbrella_gold",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/gold"
+        }
+      },
+      {
+        "when": "umbrella_greenwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/greenwhite"
+        }
+      },
+      {
+        "when": "umbrella_lbluewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/lbluewhite"
+        }
+      },
+      {
+        "when": "umbrella_orangewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/orangewhite"
+        }
+      },
+      {
+        "when": "umbrella_pinkwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/pinkwhite"
+        }
+      },
+      {
+        "when": "umbrella_purplewhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/purplewhite"
+        }
+      },
+      {
+        "when": "umbrella_rainbow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/rainbow"
+        }
+      },
+      {
+        "when": "umbrella_redwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/redwhite"
+        }
+      },
+      {
+        "when": "umbrella_white",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/white"
+        }
+      },
+      {
+        "when": "umbrella_whiteblack",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteblack"
+        }
+      },
+      {
+        "when": "umbrella_whiteblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteblue"
+        }
+      },
+      {
+        "when": "umbrella_whitegreen",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitegreen"
+        }
+      },
+      {
+        "when": "umbrella_whitelblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitelblue"
+        }
+      },
+      {
+        "when": "umbrella_whiteorange",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteorange"
+        }
+      },
+      {
+        "when": "umbrella_whitepink",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitepink"
+        }
+      },
+      {
+        "when": "umbrella_whitepurple",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitepurple"
+        }
+      },
+      {
+        "when": "umbrella_whitered",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whitered"
+        }
+      },
+      {
+        "when": "umbrella_whiteyellow",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/whiteyellow"
+        }
+      },
+      {
+        "when": "umbrella_yellowwhite",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/umbrella/yellowwhite"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_spear"
+    }
+  },
+  "oversized_in_gui": true
+}
